@@ -23,7 +23,7 @@ export default function ProductDetailPage({ params }) {
         <div className="pd-crumb">
           <Link href="/products">Products</Link> / {product.name}
         </div>
-        <span className="eyebrow-tag">Road Construction Machinery</span>
+        <span className="eyebrow-tag" style={{color:"white"}}>Road Construction Machinery</span>
         <h1 style={{ fontSize: "clamp(2rem,3.4vw,2.7rem)", fontWeight: 700 }}>{product.name}</h1>
         <p style={{ color: "#B7BBBF", maxWidth: 480, marginTop: 10 }}>{product.desc}</p>
       </div>

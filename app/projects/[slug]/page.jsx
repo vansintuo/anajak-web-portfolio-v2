@@ -23,7 +23,7 @@ export default function ProjectDetailPage({ params }) {
         <div className="pd-crumb">
           <Link href="/projects">Projects</Link> / {project.title}
         </div>
-        <span className="eyebrow-tag">
+        <span className="eyebrow-tag" style={{color:"white"}}>
           {project.type} · {project.year}
         </span>
         <h1 style={{ fontSize: "clamp(2rem,3.4vw,2.7rem)", fontWeight: 700 }}>{project.title}</h1>
