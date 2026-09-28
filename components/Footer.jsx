@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -7,10 +8,12 @@ export default function Footer() {
         <div className="footer-brand">
           <div className="logo">
             <div className="logo-mark">
-              <svg viewBox="0 0 28 28" fill="none">
-                <circle cx="14" cy="14" r="12" stroke="#8C8C8C" strokeWidth="2" />
-                <path d="M6 14h16M14 6v16" stroke="#8C8C8C" strokeWidth="2" />
-              </svg>
+              <Image
+                src="/photos/icon-light-32x32.png"
+                alt="ANAJAK logo"
+                fill
+                sizes="28px"
+              />
             </div>
             <span className="logo-text">
               ANAJAK

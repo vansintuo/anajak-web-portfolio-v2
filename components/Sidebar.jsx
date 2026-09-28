@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 const NAV_ITEMS = [
@@ -63,9 +64,15 @@ function isActive(pathname, href) {
 function Logo() {
   return (
     <div className="logo" style={{ justifyContent: "center" }}>
-      <span className="logo-text font-size-16">
-        ANAJAK
+      <span className="logo-mark">
+        <Image
+          src="/photos/icon-light-32x32.png"
+          alt="ANAJAK logo"
+          fill
+          sizes="28px"
+        />
       </span>
+      <span className="logo-text">ANAJAK</span>
     </div>
   );
 }
