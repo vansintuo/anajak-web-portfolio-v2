@@ -73,7 +73,7 @@ export default function HomePage() {
             <span className="section-index">01 — Company</span>
             <h2>We Build the Road, and Everything That Goes Into It.</h2>
             <p>
-              Terravia is a road construction and infrastructure engineering company working across Cambodia
+              ANAJAK is a road construction and infrastructure engineering company working across Cambodia
               and Southeast Asia. We control the full chain — collecting waste rubber, processing it into
               road-grade material, manufacturing rubber-modified asphalt at our own plant, then laying it
               with our own crews and machinery.

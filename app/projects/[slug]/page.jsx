@@ -10,7 +10,7 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }) {
   const project = getProject(params.slug);
-  return { title: project ? `${project.title} — Terravia` : "Project — Terravia" };
+  return { title: project ? `${project.title} — ANAJAK` : "Project — ANAJAK" };
 }
 
 export default function ProjectDetailPage({ params }) {

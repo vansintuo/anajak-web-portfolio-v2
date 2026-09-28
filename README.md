@@ -1,6 +1,6 @@
-# Terravia — Rubber Road Engineering (Next.js)
+# ANAJAK — Rubber Road Engineering (Next.js)
 
-A Next.js (App Router) rebuild of the Terravia marketing site: fixed left sidebar,
+A Next.js (App Router) rebuild of the ANAJAK marketing site: fixed left sidebar,
 monochrome design system, and real client-side routing between pages.
 
 ## Getting started

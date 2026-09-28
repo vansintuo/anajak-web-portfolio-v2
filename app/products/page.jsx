@@ -6,7 +6,7 @@ import { PageHeroImage } from "../../components/RoadGraphics";
 import { PRODUCTS } from "../../lib/products";
 
 export const metadata = {
-  title: "Products & Equipment — Terravia",
+  title: "Products & Equipment — ANAJAK",
 };
 
 export default function ProductsPage() {

@@ -6,9 +6,9 @@ import { PageHeroImage } from "../../components/RoadGraphics";
 import { PROJECTS } from "../../lib/projects";
 
 export const metadata = {
-  title: "Projects — Terravia",
+  title: "Projects — ANAJAK",
   description:
-    "Road construction, resurfacing and recycling infrastructure projects delivered by Terravia across Cambodia and Southeast Asia.",
+    "Road construction, resurfacing and recycling infrastructure projects delivered by ANAJAK across Cambodia and Southeast Asia.",
 };
 
 export default function ProjectsPage() {

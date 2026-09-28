@@ -3,7 +3,7 @@ import Sidebar from "../components/Sidebar";
 import MobileNav from "../components/MobileNav";
 
 export const metadata = {
-  title: "Terravia — Rubber Road Engineering",
+  title: "ANAJAK — Rubber Road Engineering",
   description:
     "Advanced rubber road technology designed for stronger, more durable and sustainable infrastructure.",
   icons: {

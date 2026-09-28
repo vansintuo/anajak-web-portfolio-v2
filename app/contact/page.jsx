@@ -4,13 +4,13 @@ import { MapImage } from "../../components/RoadGraphics";
 const CONTACT = {
   phone: "+855 23 XXX XXX",
   phoneHref: "tel:+85523000000",
-  email: "info@terravia-roads.com",
-  linkedin: "https://www.linkedin.com/company/terravia-road-engineering",
-  address: ["Terravia Road Engineering Co., Ltd.", "Prek Pnov, Phnom Penh", "Cambodia"],
+  email: "info@ANAJAK-roads.com",
+  linkedin: "https://www.linkedin.com/company/ANAJAK-road-engineering",
+  address: ["ANAJAK Road Engineering Co., Ltd.", "Prek Pnov, Phnom Penh", "Cambodia"],
 };
 
 export const metadata = {
-  title: "Contact — Terravia",
+  title: "Contact — ANAJAK",
 };
 
 export default function ContactPage() {
@@ -46,7 +46,7 @@ export default function ContactPage() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Terravia Road Engineering →
+                ANAJAK Road Engineering →
               </a>
             </div>
             <div className="contact-row">
@@ -84,7 +84,7 @@ export default function ContactPage() {
           <div className="map-box">
             <MapImage
               src="/photos/rubber-recycling-machine.png"
-              alt="Terravia rubber processing facility, Phnom Penh"
+              alt="ANAJAK rubber processing facility, Phnom Penh"
             />
           </div>
         </div>

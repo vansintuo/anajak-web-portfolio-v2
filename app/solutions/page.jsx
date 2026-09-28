@@ -3,7 +3,7 @@ import Reveal from "../../components/Reveal";
 import { PageHeroImage } from "../../components/RoadGraphics";
 
 export const metadata = {
-  title: "Road Construction Solutions — Terravia",
+  title: "Road Construction Solutions — ANAJAK",
 };
 
 const SOLUTIONS = [

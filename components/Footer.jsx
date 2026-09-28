@@ -38,14 +38,14 @@ export default function Footer() {
 
         <div className="footer-col">
           <h4>Contact</h4>
-          <a href="mailto:info@terravia-roads.com">info@terravia-roads.com</a>
+          <a href="mailto:info@ANAJAK-roads.com">info@ANAJAK-roads.com</a>
           <a href="tel:+85523000000">+855 23 XXX XXX</a>
           <span className="footer-static">Phnom Penh, Cambodia</span>
         </div>
       </div>
 
       <div className="footer-bottom">
-        <span>© {new Date().getFullYear()} Terravia Road Engineering. All rights reserved.</span>
+        <span>© {new Date().getFullYear()} ANAJAK Road Engineering. All rights reserved.</span>
         <div className="footer-social">
           <a href="#" aria-label="LinkedIn">
             <svg viewBox="0 0 24 24" fill="none" strokeWidth="1.7">

@@ -10,7 +10,7 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }) {
   const product = getProduct(params.slug);
-  return { title: product ? `${product.name} — Terravia` : "Product — Terravia" };
+  return { title: product ? `${product.name} — ANAJAK` : "Product — ANAJAK" };
 }
 
 export default function ProductDetailPage({ params }) {
