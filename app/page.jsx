@@ -46,14 +46,14 @@ export default function HomePage() {
         <div className="hero-scrim"></div>
         <div className="lane"></div>
         <div className="hero-inner">
-          <span className="eyebrow-tag">Rubber Road Technology / Infrastructure</span>
+          <span className="eyebrow-tag" style={{color:"white"}}>Rubber Road Technology / Infrastructure</span>
           <h1>Engineering the Roads of Tomorrow.</h1>
           <p>Advanced rubber road technology designed for stronger, more durable and sustainable infrastructure.</p>
           <div className="hero-ctas">
-            <Link className="btn btn-primary" href="/solutions">
+            <Link className="btn btn-primary" href="/solutions" style={{color:"white"}}>
               Explore Solutions →
             </Link>
-            <Link className="btn btn-secondary" href="/projects">
+            <Link className="btn btn-secondary" href="/projects" style={{color:"white"}}>
               View Our Projects
             </Link>
           </div>
@@ -83,7 +83,7 @@ export default function HomePage() {
               material science through to the finished surface, tested against the traffic load and climate
               of each site.
             </p>
-            <Link className="btn btn-secondary" href="/contact">
+            <Link className="btn btn-secondary" href="/contact" style={{color:"black"}}>
               Talk to an Engineer →
             </Link>
           </Reveal>
