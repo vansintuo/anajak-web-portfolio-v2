@@ -38,8 +38,7 @@ body {
 }
 h1,
 h2,
-h3,
-.display {
+h3 {
   font-family: "Space Grotesk", sans-serif;
 }
 a {
@@ -209,15 +208,7 @@ button {
   color: #8c8c8c;
 }
 
-/* ---------- Photography: grayscale ---------- */
-.grayscale img,
-.hero-media img,
-.proj-img img,
-.pd-visual-img img,
-/* .intro-figure img {
-  filter: grayscale(1) contrast(1.06) brightness(0.94);
-  transition: filter 0.55s ease;
-} */
+/* ---------- Photography: hover treatment ---------- */
 .proj-card:hover .proj-img img,
 .pd-visual-img:hover img {
   filter: grayscale(0.3) contrast(1.04) brightness(0.98);

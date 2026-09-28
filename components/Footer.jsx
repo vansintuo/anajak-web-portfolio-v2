@@ -13,7 +13,7 @@ export default function Footer() {
               </svg>
             </div>
             <span className="logo-text">
-              TERRA<span>VIA</span>
+              ANAJAK
             </span>
           </div>
           <p className="footer-tagline">Building Roads. Building Tomorrow.</p>

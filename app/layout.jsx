@@ -7,8 +7,10 @@ export const metadata = {
   description:
     "Advanced rubber road technology designed for stronger, more durable and sustainable infrastructure.",
   icons: {
-    icon: "/photos/icon.svg",
-    apple: "/photos/apple-icon.png",
+    icon: [
+      { url: "/photos/icon-dark-32x32.png", media: "(prefers-color-scheme: light)" },
+      { url: "/photos/icon-light-32x32.png", media: "(prefers-color-scheme: dark)" },
+    ],
   },
 };
 
