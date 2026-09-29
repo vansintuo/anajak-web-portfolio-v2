@@ -75,7 +75,7 @@ export default function ContactPage() {
           </div>
           <div className="info-block">
             <h4>Working Hours</h4>
-            <p>Monday – Saturday, 08:00 – 17:30 (GMT+7)</p>
+            <p>Monday - Saturday, 08:00 - 17:30 (GMT+7)</p>
           </div>
           <div className="info-block">
             <h4>Services</h4>

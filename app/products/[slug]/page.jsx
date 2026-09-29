@@ -50,7 +50,7 @@ export default function ProductDetailPage({ params }) {
             ))}
           </div>
           <div className="pd-ctas">
-            <Link className="btn btn-primary" href="/contact">
+            <Link className="btn btn-primary" href="/contact" style={{color:"white"}}>
               Request Quote
             </Link>
           </div>

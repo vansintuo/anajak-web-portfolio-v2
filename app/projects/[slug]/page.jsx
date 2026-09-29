@@ -63,10 +63,10 @@ export default function ProjectDetailPage({ params }) {
           </div>
 
           <div className="pd-ctas">
-            <Link className="btn btn-primary" href="/contact">
+            <Link className="btn btn-primary" href="/contact" style={{color:"white"}}>
               Request Quote
             </Link>
-            <Link className="btn btn-secondary" href="/projects">
+            <Link className="btn btn-secondary" href="/projects" style={{color:"black"}}>
               All Projects
             </Link>
           </div>
